@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "testadasdasdasdasdasd",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Ruslan379.github.io/team_project_js_filmoteka_my",
+  "homepage": "https://github.com/Bogdan0109/testadasdasdasdasdasd",
   "scripts": {
-    "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team_project_js_filmoteka_my/"
+    "start": "parcel src/pages/*.html",
+    "build": "parcel build src/pages/*.html --public-url /testadasdasdasdasdasd/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/Bogdan0109/testadasdasdasdasdasd.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/Bogdan0109/testadasdasdasdasdasd/issues"
   },
   "dependencies": {
     "axios": "^0.27.2",

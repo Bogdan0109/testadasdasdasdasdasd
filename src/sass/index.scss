@@ -1,5 +1,8 @@
-@import './common';
-@import './header';
-@import './modal';
-@import './hero';
-@import './footer';
+@import './base/common';
+
+@import './components/home/conteiner';
+
+@import './layout/home/header';
+@import './layout/home/hero';
+@import './layout/home/footer';
+@import './layout/modal';
